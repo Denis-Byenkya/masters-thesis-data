@@ -1,2 +1,10 @@
 # masters-thesis-data
-Dataset for MSc Agricultural and Applied Economics thesis on CSA and Agronomic practices
+This repository contains data used for my MSc research on Climate-Smart Agriculture (CSA) adoption and its effects on household market participation, agricultural income and food security in Uganda.
+
+## Author
+Denis Byenkya Kiiza  
+MSc Agricultural and Applied Economics  
+Makerere University
+
+## Notes
+Data is for academic purposes only.
